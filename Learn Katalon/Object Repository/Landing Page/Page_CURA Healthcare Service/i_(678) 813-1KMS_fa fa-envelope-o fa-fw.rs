@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_(678) 813-1KMS_fa fa-envelope-o fa-fw</name>
+   <tag></tag>
+   <elementGuidId>7c644efe-80dd-4818-bc61-154c7bbf682f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-envelope-o.fa-fw</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[2]/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>90a0b23b-a6cf-4ec5-af1b-671856d550f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-envelope-o fa-fw</value>
+      <webElementGuid>f29848c5-b631-4569-81df-3dbcfdf2f47b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/footer[1]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-10 col-lg-offset-1 text-center&quot;]/ul[@class=&quot;list-unstyled&quot;]/li[2]/i[@class=&quot;fa fa-envelope-o fa-fw&quot;]</value>
+      <webElementGuid>47bcc967-5472-4445-a4e8-9b6973bf33ed</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/i</value>
+      <webElementGuid>2ecb7e71-3a2d-4a80-b120-19883d57edb1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
